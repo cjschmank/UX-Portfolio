@@ -29,8 +29,7 @@ content:
       tag: '*'
     - name: User Experience
       tag: UX
-    - name: Applied Cognitive
-      tag: Cognition
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
