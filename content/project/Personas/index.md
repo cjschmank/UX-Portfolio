@@ -2,7 +2,7 @@
 title: Your Trek - Provisional/Validated Personas
 summary: Provisional Personas were validated using user research and in-person interviews.
 tags:
-  - User Experience
+  - UX
 date: '2020-02-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

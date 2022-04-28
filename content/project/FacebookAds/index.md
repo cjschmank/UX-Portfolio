@@ -2,7 +2,7 @@
 title: Your Trek - Facebook Advertisement Campaign
 summary: Facebook Ad Campaigns were undertaken to assess conversion rates of YourTrek Landing Page.
 tags:
-  - User Experience
+  - UX
 date: '2020-04-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

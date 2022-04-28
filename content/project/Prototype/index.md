@@ -2,7 +2,7 @@
 title: Your Trek - Solution Prototype
 summary: Rapid prototyping and user experience research conducted using YourTrek solution prototype.
 tags:
-  - User Experience
+  - UX
 date: '2020-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
