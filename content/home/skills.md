@@ -44,14 +44,15 @@ feature:
     icon: share-alt
     icon_pack: fas
     name: Psychometric Network Analysis
-  - description: 
-    icon: sitemap
-    icon_pack: fas
-    name: Latent Variable Modeling
   - description:
     icon: cat
     icon_pack: fas
     name: Cat Enthusiast
+  - description: 
+    icon: sitemap
+    icon_pack: fas
+    name: Latent Variable Modeling
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

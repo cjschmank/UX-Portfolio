@@ -29,3 +29,5 @@ url_video: ''
 YourTrek was an interactive website and application proposal for Claremont Graduate University’s User Experience Strategy and Design (CGU 350UX) course. During this course we had to craft our own individual UX project geared at generating value innovation propositions, establishing provisional personas,  carrying out user interviews, and conducting competitive analyses. Additionally, we had to create our own workable prototype. The prototype can be accessed here: 
 
 https://xd.adobe.com/view/676160a9-e383-4ec8-6ff8-7c7d24fc77b4-1150/
+
+![Title](/IMAGES/UXPPage1R.png)

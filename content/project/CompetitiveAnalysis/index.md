@@ -3,7 +3,7 @@ title: Your Trek - Competitive Analysis and Competitive Brief
 summary: Competitive Analyses were conducted and a Competitive Brief administered regarding the current marketplace and oppotunities.
 tags:
   - UX
-date: '2020-02-15T00:00:00Z'
+date: '2020-05-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

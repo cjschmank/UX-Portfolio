@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: UX Portfolio - Christopher J. Schmank # Website name
+title: Christopher J. Schmank's UX Portfolio  # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
