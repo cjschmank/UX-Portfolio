@@ -14,8 +14,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
-url_slides: ''
+url_pdf: 'https://osf.io/uqceg/download'
+url_slides: 'https://osf.io/uqceg/'
 url_video: ''
 
 # Slides (optional).
@@ -30,4 +30,4 @@ YourTrek was an interactive website and application proposal for Claremont Gradu
 
 https://xd.adobe.com/view/676160a9-e383-4ec8-6ff8-7c7d24fc77b4-1150/
 
-![Title](/images/UXPPage1R.png)
+

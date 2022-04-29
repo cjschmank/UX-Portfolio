@@ -14,8 +14,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
-url_slides: ''
+url_pdf: 'https://osf.io/whavp/download'
+url_slides: 'https://osf.io/whavp/'
 url_video: ''
 
 # Slides (optional).
