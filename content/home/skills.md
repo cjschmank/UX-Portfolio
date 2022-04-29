@@ -47,11 +47,11 @@ feature:
   - description: 
     icon: r-project
     icon_pack: fab
-    name: R/R Studio  
+    name: R Studio  
   - description:
     icon: chart-line
     icon_pack: fas
-    name: Statistical Analyses
+    name: Advanced Statistical Analyses
   - description:
     icon: share-alt
     icon_pack: fas
