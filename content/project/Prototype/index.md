@@ -30,4 +30,4 @@ YourTrek was an interactive website and application proposal for Claremont Gradu
 
 https://xd.adobe.com/view/676160a9-e383-4ec8-6ff8-7c7d24fc77b4-1150/
 
-![Title](/IMAGES/UXPPage1R.png)
+![Title](/images/UXPPage1R.png)
