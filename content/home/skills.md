@@ -17,13 +17,25 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: r-project
-    icon_pack: fab
-    name: R/R Studio
+    icon: code-compare
+    icon_pack: fas
+    name: Competitive Analyses & Briefing
+  - description:
+    icon: clipboard
+    icon_pack: fas
+    name: Surveys & In-Person Interviews
+  - description:
+    icon: repeat
+    icon_pack: fas
+    name: Rapid Prototyping
+  - description:
+    icon: network-wired
+    icon_pack: fas
+    name: Wireframing/Story Boarding
   - description:
     icon: gamepad
     icon_pack: fas
-    name: User Experience Research
+    name: User Experience Research Methods
   - description: 
     icon: cogs
     icon_pack: fas
@@ -33,9 +45,9 @@ feature:
     icon_pack: fas
     name: Psychological Science Methodology
   - description: 
-    icon: chalkboard-teacher
-    icon_pack: fas
-    name: Teaching Assistant Experience
+    icon: r-project
+    icon_pack: fab
+    name: R/R Studio  
   - description:
     icon: chart-line
     icon_pack: fas
