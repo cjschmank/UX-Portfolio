@@ -51,7 +51,7 @@ content:
       link: 'https://www.linkedin.com/in/christopherjschmank/'
     - icon: osf
       icon_pack: ai
-      name: Follow on OSF 
+      name: Find on OSF 
       link: 'https://osf.io/b57sp/'
     - icon: researchgate
       icon_pack: fab
