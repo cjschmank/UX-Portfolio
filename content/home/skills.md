@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Additional Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -44,10 +44,6 @@ feature:
     icon: microscope
     icon_pack: fas
     name: Psychological Science Methodology
-  - description: 
-    icon: r-project
-    icon_pack: fab
-    name: R Studio  
   - description:
     icon: chart-line
     icon_pack: fas
