@@ -7,9 +7,9 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 15
 
-title: Additional Skills
+title: Technical Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,38 +17,41 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: cogs
-    icon_pack: fas
-    name: Cognitive Science Methodology
+    icon: r-project
+    icon_pack: fab
+    name: R Studio 
   - description:
-    icon: microscope
+    icon: gamepad
     icon_pack: fas
-    name: Psychological Science Methodology
-  - description:
-    icon: chart-line
-    icon_pack: fas
-    name: Advanced Statistical Analyses
-  - description:
-    icon: share-alt
-    icon_pack: fas
-    name: Psychometric Network Analysis
-  - description:
-    icon: cat
-    icon_pack: fas
-    name: Cat Enthusiast
+    name: User Experience Research Methods
+    description: "" 
   - description: 
-    icon: sitemap
+    icon: code-compare
     icon_pack: fas
-    name: Latent Variable Modeling
-#  - description:
-#    icon: "adobe-xd"
-#    icon_pack: "custom"
-#    name: "Adobe XD"
-#  - description:
-#    icon: "figma"
-#    icon_pack: "custom"
-#    name: "Figma"
-
+    name: Competitive Analyses & Briefing
+  - description:
+    icon: clipboard
+    icon_pack: fas
+    name: Surveys & In-Person Interviews
+  - icon: "adobe-xd"
+    icon_pack: "custom"
+    name: "Adobe XD" 
+  - description:
+    icon: repeat
+    icon_pack: fas
+    name: Rapid Prototyping
+  - description:
+    icon: network-wired
+    icon_pack: fas
+    name: Wireframing/Story Boarding
+  - icon: "figma"
+    icon_pack: fab
+    name: "Figma"
+    description: ""
+  - description:
+    icon: python
+    icon_pack: fab
+    name: Python (Novice) 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -58,9 +61,9 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`.
-#- icon: "adobe-xd"
+# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
+#- icon: "your-custom-icon-name"
 #  icon_pack: "custom"
-#  name: "Adobe XD"
-#  description: ""
+#  name: "Surfing"
+#  description: "90%"
 ---
