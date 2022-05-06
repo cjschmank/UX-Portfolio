@@ -14,7 +14,7 @@ organizations:
     url: https://www.cgu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include psychometrics and statistical modeling, as well as the impact of emotion regulation and stress on cognitive ability. Learn more at my Academic Website **cjschmank.github.io**
+bio: My research interests include psychometrics and statistical modeling, as well as the impact of emotion regulation and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
 
 # Interests to show in About widget
 interests:
