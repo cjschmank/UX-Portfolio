@@ -64,6 +64,14 @@ feature:
     icon: sitemap
     icon_pack: fas
     name: Latent Variable Modeling
+#  - description:
+#    icon: "adobe-xd"
+#    icon_pack: "custom"
+#    name: "Adobe XD"
+#  - description:
+#    icon: "figma"
+#    icon_pack: "custom"
+#    name: "Figma"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -74,9 +82,9 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
+# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`.
+#- icon: "adobe-xd"
 #  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+#  name: "Adobe XD"
+#  description: ""
 ---
