@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Additional Skills
 subtitle:
@@ -16,26 +16,6 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 
-    icon: code-compare
-    icon_pack: fas
-    name: Competitive Analyses & Briefing
-  - description:
-    icon: clipboard
-    icon_pack: fas
-    name: Surveys & In-Person Interviews
-  - description:
-    icon: repeat
-    icon_pack: fas
-    name: Rapid Prototyping
-  - description:
-    icon: network-wired
-    icon_pack: fas
-    name: Wireframing/Story Boarding
-  - description:
-    icon: gamepad
-    icon_pack: fas
-    name: User Experience Research Methods
   - description: 
     icon: cogs
     icon_pack: fas

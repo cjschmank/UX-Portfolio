@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 15
 
 title: Technical Skills
 subtitle:
@@ -21,18 +21,37 @@ feature:
     icon_pack: fab
     name: R Studio 
   - description:
-    icon: python
-    icon_pack: fab
-    name: Python (Novice) 
+    icon: gamepad
+    icon_pack: fas
+    name: User Experience Research Methods
+    description: "" 
+  - description: 
+    icon: code-compare
+    icon_pack: fas
+    name: Competitive Analyses & Briefing
+  - description:
+    icon: clipboard
+    icon_pack: fas
+    name: Surveys & In-Person Interviews
   - icon: "adobe-xd"
     icon_pack: "custom"
-    name: "Adobe XD"
-    description: ""
+    name: "Adobe XD" 
+  - description:
+    icon: repeat
+    icon_pack: fas
+    name: Rapid Prototyping
+  - description:
+    icon: network-wired
+    icon_pack: fas
+    name: Wireframing/Story Boarding
   - icon: "figma"
     icon_pack: fab
     name: "Figma"
     description: ""
-
+  - description:
+    icon: python
+    icon_pack: fab
+    name: Python (Novice) 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
