@@ -81,7 +81,9 @@ email: ''
 highlight_name: true
 ---
 
-Christopher J. Schmank, MA is a doctoral graduate student and user experience researcher at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. For more information about my academic background see my Academic Website: **cjschmank.github.io**.
+Christopher J. Schmank, MA is a doctoral graduate student and user experience researcher at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. For more information about my academic background check out my Academic Website: <a href="cjschmank.netlify.app">  CLICK HERE</a>.
 
-Recently, I completed a user experience internship with Hit Point Studios in Los Angeles, CA which led to several consulting positions as a user experience researcher. As a consultant, I have completed competitive analyses and competitive analysis briefs, in-application user experience research, and acted as a writer for in-game NPC responses. What follows is my User Experience portfolio which centers around an interactive website and application that I created called YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
+Recently, I completed a user experience (UX) internship with Hit Point Studios in Los Angeles, CA which led to several consulting positions as a  UX researcher. As a consultant, I have completed competitive analyses and competitive analysis briefs, in-application UX research, and acted as a writer for in-game NPC responses. What follows is my UX portfolio which centers around an interactive website and application that I created called YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
+
+
 
