@@ -14,8 +14,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'https://osf.io/8g7uq/download'
-url_slides: 'https://osf.io/8g7uq/'
+url_pdf: 'https://drive.google.com/file/d/15TfyNiOL_f3OnHVB0AGHWWxSX77Z8CzF/view?usp=sharing'
+url_slides: ''
 url_video: ''
 
 # Slides (optional).

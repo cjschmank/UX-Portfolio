@@ -14,8 +14,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'https://osf.io/uqceg/download'
-url_slides: 'https://osf.io/uqceg/'
+url_pdf: 'https://drive.google.com/file/d/1QGCxDP6XVEyEd909DI9ZpxbsRaQMmsJO/view?usp=sharing'
+url_slides: ''
 url_video: ''
 
 # Slides (optional).
