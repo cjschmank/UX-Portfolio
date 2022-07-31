@@ -1,6 +1,6 @@
 ---
 title: Consulting Work - Here.LA and Reality Smash
-summary: Worked as a User Experience research consultant for several companies. Completed competitive analyses regarding the use of extended reality products currently available in the market related to architecuture and mental health. Also, put together several competitive analysis briefs to condense the information into streamlined content. Finally, conducted research on various use cases related to extended reality and mental health.
+summary: Worked as a User Experience research consultant for several companies interested in eXtended Reality (XR) technology.
 tags:
   - UX
 date: '2021-02-26T00:00:00Z'
