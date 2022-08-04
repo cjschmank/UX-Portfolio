@@ -9,8 +9,7 @@ date: '2022-07-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+  caption: 
   focal_point: 
 
 links:
