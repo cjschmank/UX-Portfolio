@@ -3,7 +3,7 @@ title: Consulting Work - Here.LA and Reality Smash
 summary: Worked as a User Experience research consultant for several companies interested in eXtended Reality (XR) technology.
 tags:
   - UX
-date: '2021-02-26T00:00:00Z'
+date: '2022-07-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
