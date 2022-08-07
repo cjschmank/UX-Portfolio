@@ -24,9 +24,7 @@ interests:
 - Statistical Modeling
 - Psychosocial Stress
 - Emotional Regulation
-- Processing Speed
-- Cognitive Ability
-- Rationality
+
 
 # Education to show in About widget
 education:
