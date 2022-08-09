@@ -14,8 +14,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1LvOabxDMZPcWb1SkUbOnqMH4Hb85RJ_T/view?usp=sharing'
-url_slides: ''
+url_pdf: 'https://drive.google.com/file/d/1JJoOkXuEnYkBr-cqgJm7Yye4rUhKAuQm/view?usp=sharing'
+url_slides: 'https://drive.google.com/file/d/1LvOabxDMZPcWb1SkUbOnqMH4Hb85RJ_T/view?usp=sharing'
 url_video: ''
 
 # Slides (optional).

@@ -13,8 +13,8 @@ image:
   focal_point: 
 
 links:
-url_code: 'https://www.figma.com/file/aGoRWbKgvud1ySjAiUeroj/YourTrek-Wireframes?node-id=0%3A1'
-url_pdf: ''
+url_code: ''
+url_pdf: 'https://drive.google.com/file/d/1kWu7zzpKM3PCOSFx97DTshE3e3Gi7srA/view?usp=sharing'
 url_slides: ''
 url_video: ''
 

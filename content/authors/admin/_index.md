@@ -18,12 +18,14 @@ bio: My research interests include psychometrics and statistical modeling, as we
 
 # Interests to show in About widget
 interests:
-- User Experience
+- User Experience Strategy & Research
 - Human Centered Design
+- Product Strategy
+- Information Architecture
+- Validated User Experiments
 - Extended Reality (XR) Technologies
 - Statistical Modeling
-- Psychosocial Stress
-- Emotional Regulation
+
 
 
 # Education to show in About widget
