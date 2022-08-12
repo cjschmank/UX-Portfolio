@@ -26,8 +26,13 @@ url_video: ''
 # slides:
 ---
 
-YourTrek was an interactive website and application proposal for Claremont Graduate University’s User Experience Strategy and Design (CGU 350UX) course. During this course we had to craft our own individual UX project geared at generating value innovation propositions, establishing provisional personas,  carrying out user interviews, and conducting competitive analyses. Additionally, prior to rapid prototyping wireframes were generated using Figma. 
+YourTrek was an interactive website and application proposal for Claremont Graduate University’s User Experience Strategy and Design (CGU 350UX) course. During this course we had to create our own UX product for a final project geared towards the generation of a speicif value innovation proposition that solved a hypothesized and validated user problem in the LA county area. 
 
-The wireframes can be accessed here: 
+During a period of custormer discovery provisional personas were established, user interviews were carryied out, and competitive analyses on products currently in the market were completed. Additionally, prior to rapid prototyping wireframes were generated on paper. What follows are Wireframes completed for the YourTrek product using Figma. 
+
+For a PDF version of the Wireframe's built in Figma press the PDF button at the top of the screen above.
+
+The wireframes can be accessed through Figma on the website below: 
 
 https://www.figma.com/file/aGoRWbKgvud1ySjAiUeroj/YourTrek-Wireframes?node-id=0%3A1
+
