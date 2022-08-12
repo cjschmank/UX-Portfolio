@@ -17,14 +17,18 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: r-project
-    icon_pack: fab
-    name: R Studio 
-  - description:
     icon: gamepad
     icon_pack: fas
-    name: User Experience Research Methods
+    name: User Experience Research
+  - description:
+    icon: sitemap
+    icon_pack: fas
+    name: Information Architecture 
     description: "" 
+  - description:
+    icon: network-wired
+    icon_pack: fas
+    name: Wireframing/Story Boarding
   - description: 
     icon: code-compare
     icon_pack: fas
@@ -33,17 +37,14 @@ feature:
     icon: clipboard
     icon_pack: fas
     name: Surveys & In-Person Interviews
-  - icon: "adobe-xd"
-    icon_pack: "custom"
-    name: "Adobe XD" 
+  - description:
+    icon: "scale-unbalanced-flip"
+    icon_pack: "fas"
+    name: "A/B Testing" 
   - description:
     icon: repeat
     icon_pack: fas
     name: Rapid Prototyping
-  - description:
-    icon: network-wired
-    icon_pack: fas
-    name: Wireframing/Story Boarding
   - icon: "figma"
     icon_pack: fab
     name: "Figma"

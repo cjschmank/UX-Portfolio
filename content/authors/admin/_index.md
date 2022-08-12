@@ -6,7 +6,7 @@ title: Christopher J. Schmank
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student and User Experience Researcher
+role: User Experience Researcher and Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,15 +14,16 @@ organizations:
     url: https://www.cgu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include psychometrics and statistical modeling, as well as the impact of emotion regulation and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
+bio: User experience consultant working on my PhD in Applied Cognitive Psychology. My academic research interests include psychometrics and statistical modeling, as well as the impact of emotion regulation and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
 
 # Interests to show in About widget
 interests:
-- User Experience Strategy & Research
+- User Experience (UX) Strategy & Research
 - Human Centered Design
 - Product Strategy
 - Information Architecture
 - Validated User Experiments
+- A/B Testing and Multivariate UX Testing
 - Extended Reality (XR) Technologies
 - Statistical Modeling
 
