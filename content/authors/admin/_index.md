@@ -25,7 +25,7 @@ interests:
 - Validated User Experiments
 - A/B Testing 
 - Multivariate Testing
-- Extended Reality (XR) Technologies
+- Extended Reality (XR) Technology
 - Statistical Modeling
 
 
