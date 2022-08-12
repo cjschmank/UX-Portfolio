@@ -18,12 +18,13 @@ bio: User experience consultant working on my PhD in Applied Cognitive Psycholog
 
 # Interests to show in About widget
 interests:
-- User Experience (UX) Strategy & Research
-- Human Centered Design
+- User Experience (UX) Strategy 
+- UX Research
 - Product Strategy
 - Information Architecture
 - Validated User Experiments
-- A/B Testing and Multivariate UX Testing
+- A/B Testing 
+- Multivariate Testing
 - Extended Reality (XR) Technologies
 - Statistical Modeling
 
