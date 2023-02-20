@@ -28,14 +28,8 @@ url_video: ''
 
 Useability Assessment and Testing Plan consists of three separate documents.
 
-AuthentiCare 2.0 - Best Practice Redesigns and Information Architecture Assessment
+AuthentiCare 2.0 - Best Practice Redesigns and Information Architecture Assessment: This pdf document consists of a preliminary assessment of the AuthentiCare 2.0 app from a useability and information architecture perspective.
 
-This pdf document consists of a preliminary assessment of the AuthentiCare 2.0 app from a useability and information architecture perspective.
+AuthentiCare 2.0 - Useability Testing Experience Outline: This pdf document consists of an overview of the useability testing procedure to be followed in the Useability Test Plan.
 
-AuthentiCare 2.0 - Useability Testing Experience Outline
-
-This pdf document consists of an overview of the useability testing procedure to be followed in the Useability Test Plan.
-
-AuthentiCare 2.0 - Useability Test Plan
-
-This Word document consists of the general research plan, hypotheses, and proposed statistical analyses of the Useability Test Plan.
+AuthentiCare 2.0 - Useability Test Plan: This Word document consists of the general research plan, hypotheses, and proposed statistical analyses of the Useability Test Plan.
