@@ -6,7 +6,7 @@ tags:
 date: '2022-08-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://drive.google.com/drive/folders/19CBJOXBBkYi251IIa9YwtWNqFxRmk4qu?usp=sharing'
+external_link: ''
 
 image:
   caption:
@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://drive.google.com/drive/folders/19CBJOXBBkYi251IIa9YwtWNqFxRmk4qu?usp=sharing'
 url_slides: ''
 url_video: ''
 
