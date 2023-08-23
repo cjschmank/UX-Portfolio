@@ -6,15 +6,15 @@ title: Christopher J. Schmank
 superuser: true
 
 # Role/position/tagline
-role: User Experience Researcher and Graduate Student
+role: User Experience Researcher </br> Instructor/Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Claremont Graduate University
-    url: https://www.cgu.edu/
+  - name: Saint Louis University
+    url: https://www.slu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: User experience consultant working on my PhD in Applied Cognitive Psychology. My academic research interests include psychometrics and statistical modeling, as well as the impact of emotion regulation and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
+bio: User experience consultant working on my PhD in Applied Cognitive Psychology at Claremont Graduate University. My academic research interests include psychometrics and statistical modeling, as well as the impact of emotion regulation and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
 
 # Interests to show in About widget
 interests:
@@ -68,7 +68,7 @@ social:
     link: https://www.linkedin.com/in/christopherjschmank/
   - icon: researchgate
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Christopher_Schmank
+    link: https://www.researchgate.net/profile/Christopher_Schmank-2
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -86,7 +86,7 @@ highlight_name: true
 
 Hello, I am Christopher J. Schmank, MA! I am a doctoral graduate student and user experience researcher at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. For more information about my academic background see my Academic Website: <a href="https://cjschmank.netlify.app" target="_blank"> CLICK HERE</a>.
 
-During the completion of my doctoral program, I completed a user experience internship with Hit Point Studios in Los Angeles, CA which led to several consulting positions as a user experience researcher. As a consultant, I have completed competitive analyses and competitive analysis briefs, in-application user experience research, and acted as a writer for in-game NPC responses. Additionally, I have worked as a teaching assistant for every User Experience course offered at Claremont Graduate University consisting of courses on Strategy & Design, Useability Testing and Interaction Design, and UX Research Methodology. What follows is my User Experience portfolio which centers around an interactive website and application that was created during my UX coursework entitled YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
+During the completion of my doctoral program, I worked on a user experience internship with Hit Point Studios in Los Angeles, CA which led to several consulting positions as a user experience researcher. As a consultant, I have completed competitive analyses and competitive analysis briefs, in-application user experience research, and acted as a writer for in-game NPC responses. Additionally, I have worked as a teaching assistant for every User Experience course offered at Claremont Graduate University consisting of courses on Strategy and Design, Useability Testing and Interaction Design, and User Experience Research Methodology. What follows is my User Experience portfolio which centers around an interactive website and application that was created during my UX coursework entitled YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
 
 YourTrek was created for Claremont Graduate University's User Experience Strategy and Design. In this course we learned about various strategies used in the UX field to generate rapid, guerilla research for user products. All students generated and validated user personas, conducted competitive analyses and presented the findings in a competitive brief presenetation, and conducted both in-person and online interviews. Additionally, Facebook Ads was used as a means of conducting conversion rate tests, to see if potential users were interested in our novel products. The end result of this course is presented below in the Projects section.
 
