@@ -21,34 +21,33 @@ feature:
     icon_pack: fas
     name: User Experience Research
   - description:
-    icon: sitemap
+    icon: code-branch
     icon_pack: fas
     name: Information Architecture 
-    description: "" 
   - description:
     icon: network-wired
     icon_pack: fas
     name: Wireframing/Story Boarding
   - description: 
-    icon: code-compare
-    icon_pack: fas
+    icon: table
+    icon_pack: fa
     name: Competitive Analyses & Briefing
   - description:
     icon: clipboard
     icon_pack: fas
     name: Surveys & In-Person Interviews
   - description:
-    icon: "scale-unbalanced-flip"
-    icon_pack: "fas"
-    name: "A/B Testing" 
+    icon: scale-unbalanced-flip
+    icon_pack: fas
+    name: A/B Testing 
   - description:
     icon: repeat
     icon_pack: fas
     name: Rapid Prototyping
-  - icon: "figma"
+  - icon: figma
     icon_pack: fab
-    name: "Figma"
-    description: ""
+    name: Figma
+    description:
   - description:
     icon: python
     icon_pack: fab
