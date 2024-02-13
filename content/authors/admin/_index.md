@@ -6,7 +6,7 @@ title: Christopher J. Schmank
 superuser: true
 
 # Role/position/tagline
-role: User Experience Researcher </br> Instructor/Assistant Professor
+role: Instructor/Assistant Professor </br> User Experience Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.slu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: User experience consultant working on my PhD in Applied Cognitive Psychology at Claremont Graduate University. My academic research interests include psychometrics and statistical modeling, as well as the impact of emotion regulation and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
+bio: User experience consultant working at my undergraduate university teaching Statistics and Cognitive Psychology. My academic research interests include psychometrics and statistical modeling, as well as the impact of regulating emotions and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
 
 # Interests to show in About widget
 interests:
@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Applied Cognitive Psychology
       institution: Claremont Graduate University
-      year: Anticipated 2023
+      year: Anticipated 2024
     - course: MA in Psychological Science (Cognitive Concentration)
       institution: University of Colorado Colorado Springs
       year: 2016
@@ -84,9 +84,11 @@ email: ''
 highlight_name: true
 ---
 
-Hello, I am Christopher J. Schmank, MA! I am a doctoral graduate student and user experience researcher at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. For more information about my academic background see my Academic Website: <a href="https://cjschmank.netlify.app" target="_blank"> CLICK HERE</a>.
+Hello, I am Christopher J. Schmank! I am currently the statistical consultant and an instructor/assistant professor of Psychology at Saint Louis University. For more information about my academic background see my Academic Website: <a href="https://cjschmank.netlify.app" target="_blank"> CLICK HERE</a>.
 
-During the completion of my doctoral program, I worked on a user experience internship with Hit Point Studios in Los Angeles, CA which led to several consulting positions as a user experience researcher. As a consultant, I have completed competitive analyses and competitive analysis briefs, in-application user experience research, and acted as a writer for in-game NPC responses. Additionally, I have worked as a teaching assistant for every User Experience course offered at Claremont Graduate University consisting of courses on Strategy and Design, Useability Testing and Interaction Design, and User Experience Research Methodology. What follows is my User Experience portfolio which centers around an interactive website and application that was created during my UX coursework entitled YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
+During the completion of my coursework during my doctoral program, I worked with Hit Point Studios in Los Angeles, CA on a user experience internship, which led to several consulting positions as a user experience researcher. As a consultant, I have completed competitive analyses and competitive analysis briefs, in-application user experience research, and acted as a writer for in-game Non-Playable Character responses. 
+
+Academically, I worked as a teaching assistant for every User Experience course offered at Claremont Graduate University consisting of courses on Strategy and Design (PSY 350UX), Useability Testing and Interaction Design (PSY 350UT), and User Experience Research Methodology (PSY 350UR). What follows is my User Experience portfolio which centers around an interactive website and application that was created during my UX coursework entitled YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
 
 YourTrek was created for Claremont Graduate University's User Experience Strategy and Design. In this course we learned about various strategies used in the UX field to generate rapid, guerilla research for user products. All students generated and validated user personas, conducted competitive analyses and presented the findings in a competitive brief presenetation, and conducted both in-person and online interviews. Additionally, Facebook Ads was used as a means of conducting conversion rate tests, to see if potential users were interested in our novel products. The end result of this course is presented below in the Projects section.
 
