@@ -51,7 +51,7 @@ feature:
   - description:
     icon: universal-access
     icon_pack: fas
-    name: Useability Research
+    name: Usability Research
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
