@@ -48,6 +48,10 @@ feature:
     icon: vr-cardboard
     icon_pack: fas
     name: AR/VR Research 
+  - description:
+    icon: universal-access
+    icon_pack: fas
+    name: Useability Research
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
