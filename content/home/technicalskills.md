@@ -16,10 +16,6 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 
-    icon: gamepad
-    icon_pack: fas
-    name: User Experience Research
   - description:
     icon: code-branch
     icon_pack: fas
@@ -35,7 +31,7 @@ feature:
   - description:
     icon: clipboard
     icon_pack: fas
-    name: Surveys & In-Person Interviews
+    name: Surveys & Interviews
   - description:
     icon: scale-unbalanced-flip
     icon_pack: fas
@@ -44,14 +40,15 @@ feature:
     icon: repeat
     icon_pack: fas
     name: Rapid Prototyping
-  - icon: figma
+  - description:
+    icon: figma
     icon_pack: fab
     name: Figma
-    description:
   - description:
-    icon: python
-    icon_pack: fab
-    name: Python (Novice) 
+    icon: vr-cardboard
+    icon_pack: fas
+    name: AR/VR Research 
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
