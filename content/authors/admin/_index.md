@@ -17,31 +17,31 @@ organizations:
 bio: User experience consultant working at my undergraduate university teaching Statistics and Cognitive Psychology. My academic research interests include psychometrics and statistical modeling, as well as the impact of regulating emotions and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
 
 # Interests to show in About widget
-interests:
-- User Experience (UX) Strategy 
-- UX Research
-- Product Strategy
-- Information Architecture
-- Validated User Experiments
-- A/B Testing 
-- Multivariate Testing
-- Extended Reality (XR) Technology
-- Statistical Modeling
+#interests:
+#- User Experience (UX) Strategy 
+#- UX Research
+#- Product Strategy
+#- Information Architecture
+#- Validated User Experiments
+#- A/B Testing 
+#- Multivariate Testing
+#- Extended Reality (XR) Technology
+#- Statistical Modeling
 
 
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Applied Cognitive Psychology
-      institution: Claremont Graduate University
-      year: Anticipated 2024
-    - course: MA in Psychological Science (Cognitive Concentration)
-      institution: University of Colorado Colorado Springs
-      year: 2016
-    - course: BA in Psychology
-      institution: Saint Louis University
-      year: 2010
+#education:
+#  courses:
+#    - course: PhD in Applied Cognitive Psychology
+#      institution: Claremont Graduate University
+#      year: Anticipated 2024
+#    - course: MA in Psychological Science (Cognitive Concentration)
+#      institution: University of Colorado Colorado Springs
+#      year: 2016
+#    - course: BA in Psychology
+#      institution: Saint Louis University
+#      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
