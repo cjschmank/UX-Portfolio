@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Christopher J. Schmank
+title: Christopher J. Schmank, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Instructor/Assistant Professor </br> User Experience Researcher 
+role: Assistant Professor </br> User Experience Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.slu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: User experience consultant working at my undergraduate university teaching Statistics and Cognitive Psychology. My academic research interests include psychometrics and statistical modeling, as well as the impact of regulating emotions and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
+bio: User experience consultant working at my undergraduate university teaching Statistics, Research Methods, and Cognitive Psychology. My academic research interests include psychometrics and statistical modeling, as well as the impact of regulating emotions and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
 
 # Interests to show in About widget
 #interests:
@@ -84,7 +84,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello, I am Christopher J. Schmank! I am currently the statistical consultant and an instructor/assistant professor of Psychology at Saint Louis University. For more information about my academic background see my Academic Website: <a href="https://cjschmank.netlify.app" target="_blank"> CLICK HERE</a>.
+Hello, I am Christopher J. Schmank, PhD! I am currently an Assistant Professor and Statistical Consultant in the Department of Psychology at Saint Louis University. For more information about my academic background see my Academic Website: <a href="https://cjschmank.netlify.app" target="_blank"> CLICK HERE</a>.
 
 During the completion of my coursework during my doctoral program, I worked with Hit Point Studios in Los Angeles, CA on a user experience internship, which led to several consulting positions as a user experience researcher. As a consultant, I have completed competitive analyses and competitive analysis briefs, in-application user experience research, and acted as a writer for in-game Non-Playable Character responses. 
 
