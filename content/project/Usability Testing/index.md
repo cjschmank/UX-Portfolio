@@ -14,10 +14,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1LO9lk8avG96WA8n9nGFAwXLplPVoLbP4/view?usp=sharing'
-url_pdf: 'https://drive.google.com/file/d/1LXgNTrvZsb6CjYdVaanPGoQ9YwVXhH4l/view?usp=sharing'
-url_pdf: 'https://drive.google.com/file/d/1N9M48OhSidaBOGdczXZzi6wURuwLy_mo/view?usp=sharing'
-url_slides: ''
+url_pdf: 'https://drive.google.com/file/d/1X53bbSD4yrY-i0XvTWI_ePNXCxd04KtX/view?usp=drive_link'
+url_slides: 'https://drive.google.com/file/d/1N9M48OhSidaBOGdczXZzi6wURuwLy_mo/view?usp=sharing'
 url_video: ''
 
 # Slides (optional).
