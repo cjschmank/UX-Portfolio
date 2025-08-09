@@ -14,7 +14,7 @@ organizations:
     url: https://www.slu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: User experience consultant working at my undergraduate university teaching Statistics, Research Methods, and Cognitive Psychology. My academic research interests include psychometrics and statistical modeling, as well as the impact of regulating emotions and stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
+bio: User experience consultant working at Saint Louis University teaching Statistics, Psychometrics, Research Methods, and Cognitive Psychology. My primary research interest includes the impact of regulating emotion and/or stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
 
 # Interests to show in About widget
 #interests:
@@ -84,12 +84,14 @@ email: ''
 highlight_name: true
 ---
 
-Hello, I am Christopher J. Schmank, PhD! I am currently an Assistant Professor and Statistical Consultant in the Department of Psychology at Saint Louis University. For more information about my academic background see my Academic Website: <a href="https://cjschmank.netlify.app" target="_blank"> CLICK HERE</a>.
-
-During the completion of my coursework during my doctoral program, I worked with Hit Point Studios in Los Angeles, CA on a user experience internship, which led to several consulting positions as a user experience researcher. As a consultant, I have completed competitive analyses and competitive analysis briefs, in-application user experience research, and acted as a writer for in-game Non-Playable Character responses. 
-
-Academically, I worked as a teaching assistant for every User Experience course offered at Claremont Graduate University consisting of courses on Strategy and Design (PSY 350UX), Usability Testing and Interaction Design (PSY 350UT), and User Experience Research Methodology (PSY 350UR). What follows is my User Experience portfolio which centers around an interactive website and application that was created during my UX coursework entitled YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
+What follows is my User Experience portfolio which centers around an interactive website and application that was created during my UX coursework entitled YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
 
 YourTrek was created for Claremont Graduate University's User Experience Strategy and Design. In this course we learned about various strategies used in the UX field to generate rapid, guerilla research for user products. All students generated and validated user personas, conducted competitive analyses and presented the findings in a competitive brief presenetation, and conducted both in-person and online interviews. Additionally, Facebook Ads was used as a means of conducting conversion rate tests, to see if potential users were interested in our novel products. The end result of this course is presented below in the Projects section.
 
 Additionally, a brief section on usability testing and interaction design has recently been added using the AuthentiCare 2.0 application as inspiration. I hope you enjoy! 
+
+---
+
+During my doctoral studies at Claremont Graduate University I had the opportunity to intern at Hit Point Studios in Los Angeles, CA. This first-hand UX research experience led to several consulting positions where I was asked to complete (a) competitive analyses and competitive analysis briefs, (b) in-application user experience research, and (c) acted as a writer for in-game Non-Playable Character responses. Additionally, I served as the teaching assistant for each User Experience course offered at Claremont Graduate University consisting of courses on Strategy and Design (PSY 350UX), Usability Testing and Interaction Design (PSY 350UT), and User Experience Research Methodology (PSY 350UR). 
+
+I am currently an Assistant Professor and Statistical Consultant in the Department of Psychology at Saint Louis University. For more information about my academic background see my Academic Website: <a href="https://cjschmank.netlify.app" target="_blank"> CLICK HERE</a>.
