@@ -84,7 +84,7 @@ email: ''
 highlight_name: true
 ---
 
-What follows is my User Experience portfolio which centers around an interactive website and application that was created during my UX coursework entitled YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
+What follows is my user experience (UX) portfolio which centered around an interactive website and application that was created during my UX coursework entitled YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
 
 YourTrek was created for Claremont Graduate University's User Experience Strategy and Design. In this course we learned about various strategies used in the UX field to generate rapid, guerilla research for user products. All students generated and validated user personas, conducted competitive analyses and presented the findings in a competitive brief presenetation, and conducted both in-person and online interviews. Additionally, Facebook Ads was used as a means of conducting conversion rate tests, to see if potential users were interested in our novel products. The end result of this course is presented below in the Projects section.
 
