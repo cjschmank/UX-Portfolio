@@ -6,7 +6,7 @@ title: Christopher J. Schmank, PhD
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor </br> User Experience Researcher 
+role: Assistant Professor </br> Statistics Consultant 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.slu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: User experience consultant working at Saint Louis University teaching Statistics, Psychometrics, Research Methods, and Cognitive Psychology. My primary research interest includes the impact of regulating emotion and/or stress on cognitive ability. Learn more at my Academic Website **cjschmank.netlify.app**
+bio: During my doctoral studies at Claremont Graduate University I had the opportunity to complete an internship with Hit Point Studios in Los Angeles, CA. This first-hand UX research experience led to several additional consulting positions where (a) competitive analyses and competitive analysis briefs, (b) in-application user experience research, and (c) writing for in-game Non-Playable Character responses were some of the outcomes of the experienece. Additionally, I served as the graduate teaching assistant for every User Experience course offered at Claremont Graduate University consisting of courses on Strategy and Design (PSY 350UX), Usability Testing and Interaction Design (PSY 350UT), and User Experience Research Methodology (PSY 350UR). 
 
 # Interests to show in About widget
 #interests:
@@ -84,14 +84,12 @@ email: ''
 highlight_name: true
 ---
 
-What follows is my user experience (UX) portfolio which centered around an interactive website and application that was created during my UX coursework entitled YourTrek--a social networking platform for hikers and outdoor enthusiasts. 
+User experience (i.e., UX) strategists attempt to build/iterate products with potential user/customer problem(s) in mind. What follows is my user experience (UX) portfolio that centered around building an interactive website and application (rough prototype) during UX coursework at Claremont Graduate University: YourTrek---a social networking platform for hikers and outdoor enthusiasts. 
 
-YourTrek was created for Claremont Graduate University's User Experience Strategy and Design. In this course we learned about various strategies used in the UX field to generate rapid, guerilla research for user products. All students generated and validated user personas, conducted competitive analyses and presented the findings in a competitive brief presenetation, and conducted both in-person and online interviews. Additionally, Facebook Ads was used as a means of conducting conversion rate tests, to see if potential users were interested in our novel products. The end result of this course is presented below in the Projects section.
+YourTrek was created while completing User Experience Strategy and Design course instructed by Jaime Levy. In this course, we generated rapid, guerilla research for our user based product. User personas were predicted and validated for each user base which was based on competitive analyses and a deep dive into the current marketplace. These personas and competitive analysis findings were condensed into micro-presenetations to mimic the fast moving world of UX Strategy and Design and the art of building by iteration. Additionally, in-person and online interviews were conducted on potential users to get a feel of the marketvalue being offered. Finally, Facebook Ads were used to conducti conversion rate tests, which allowed us to isolate various marekts where the product would be most viable.
 
-Additionally, a brief section on usability testing and interaction design has recently been added using the AuthentiCare 2.0 application as inspiration. I hope you enjoy! 
+ The end result of this course is presented below in the Projects section!
 
----
+Additionally, a brief section on usability testing and interaction design has recently been added using the AuthentiCare 2.0 application as "inspiration". 
 
-During my doctoral studies at Claremont Graduate University I had the opportunity to intern at Hit Point Studios in Los Angeles, CA. This first-hand UX research experience led to several consulting positions where I was asked to complete (a) competitive analyses and competitive analysis briefs, (b) in-application user experience research, and (c) acted as a writer for in-game Non-Playable Character responses. Additionally, I served as the teaching assistant for each User Experience course offered at Claremont Graduate University consisting of courses on Strategy and Design (PSY 350UX), Usability Testing and Interaction Design (PSY 350UT), and User Experience Research Methodology (PSY 350UR). 
-
-I am currently an Assistant Professor and Statistical Consultant in the Department of Psychology at Saint Louis University. For more information about my academic background see my Academic Website: <a href="https://cjschmank.netlify.app" target="_blank"> CLICK HERE</a>.
+I hope you enjoy! 

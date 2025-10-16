@@ -1,8 +1,9 @@
 ---
-title: Your Trek - Wireframing with Figma
+title: Wireframing with Figma
 summary: Wireframes created in Figma for YourTrek feature experience of finding new treks and recording trek.
 tags:
-  - UX
+  - Prototype
+  - Wireframe
 date: '2020-02-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

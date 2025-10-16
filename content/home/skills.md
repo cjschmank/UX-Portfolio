@@ -19,27 +19,27 @@ feature:
   - description: 
     icon: cogs
     icon_pack: fas
-    name: Cognitive Science Methodology
-  - description:
-    icon: microscope
-    icon_pack: fas
-    name: Psychological Science Methodology
-  - description:
-    icon: chart-line
-    icon_pack: fas
-    name: Advanced Statistical Analyses
-  - description:
-    icon: share-alt
-    icon_pack: fas
-    name: Psychometric Network Analysis
+    name: Cognitive Psychology / </br> Psychological Science </br> Research Methodologist
   - description:
     icon: cat
     icon_pack: fas
-    name: Cat Enthusiast
+    name: Cat Enthusiast </br> (Bartleby, Indi, & Buddy)
+  - description:
+    icon: clipboard
+    icon_pack: fas
+    name: Psychometrician and  </br> Statistical Consultant
+  - description:
+    icon: share-alt
+    icon_pack: fas
+    name: Psychometric Network / </br> Exploratory Graph Analysis
+  - description: 
+    icon: open-access
+    icon_pack: ai
+    name: Open Access Advocate </br> Open Sources / </br> Open Data 
   - description: 
     icon: sitemap
     icon_pack: fas
-    name: Latent Variable Modeling
+    name: 'Latent Variable Modeling: Exploratory, Confirmatory, and Structural Equation'
 #  - description:
 #    icon: "adobe-xd"
 #    icon_pack: "custom"

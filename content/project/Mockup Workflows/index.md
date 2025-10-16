@@ -1,8 +1,9 @@
 ---
-title: Your Trek - Mockup Workflows with Figma
+title: Mockup Workflows with Figma
 summary: Mockup Workflows created in Figma for YourTrek feature experience of Logging In, Selecting a Featured Trek, and Forgotten Passwords.
 tags:
-  - UX
+  - Prototype
+  - Wireframe
 date: '2020-03-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

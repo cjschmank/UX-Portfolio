@@ -1,8 +1,8 @@
 ---
-title: AuthentiCare 2.0 - Usability Assessment and Testing Plan
+title: Usability Assessment and Testing Plan (AuthentiCare 2.0)
 summary: General usability of the AuthentiCare 2.0 app was assessed and a usability test plan was created as a means of making the app more streamlined.
 tags:
-  - UX
+  - Useability
 date: '2022-08-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -16,42 +16,42 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description:
-    icon: code-branch
-    icon_pack: fas
-    name: Information Architecture 
-  - description:
-    icon: network-wired
-    icon_pack: fas
-    name: Wireframing/Story Boarding
   - description: 
     icon: table
     icon_pack: fa
-    name: Competitive Analyses & Briefing
+    name: Competitive Analyses & Competitive Briefing
   - description:
     icon: clipboard
     icon_pack: fas
-    name: Surveys & Interviews
+    name: Survey & Interview Administration
+  - description:
+    icon: code-branch
+    icon_pack: fas
+    name: Information </br> Architecture 
+  - description:
+    icon: network-wired
+    icon_pack: fas
+    name: Wireframing / </br> Storyboarding
   - description:
     icon: scale-unbalanced-flip
     icon_pack: fas
-    name: A/B Testing 
+    name: A/B Split </br> Testing 
   - description:
     icon: repeat
     icon_pack: fas
-    name: Rapid Prototyping
+    name: Rapid/Iterative </br> Prototyping
   - description:
     icon: figma
     icon_pack: fab
-    name: Figma
+    name: Figma User
   - description:
     icon: vr-cardboard
     icon_pack: fas
-    name: AR/VR Research 
+    name: AR/VR Research </br> Experience
   - description:
     icon: universal-access
     icon_pack: fas
-    name: Usability Research
+    name: Usability Research </br> Experience
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -1,8 +1,9 @@
 ---
-title: Your Trek - Competitive Analysis and Competitive Brief
-summary: Competitive Analysis was conducted and an Executive Competitive Brief presented regarding the current marketplace and oppotunities for YourTrekfs.
+title: Competitive Analysis and Competitive Brief
+summary: Competitive Analysis was conducted and an Executive Competitive Brief presented regarding the current marketplace and oppotunities for YourTrek.
 tags:
-  - UX
+  - Competitive Analysis
+  - Marketplace Research
 date: '2020-03-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

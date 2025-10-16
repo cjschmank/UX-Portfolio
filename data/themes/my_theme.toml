@@ -3,21 +3,19 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#355E3B"
+  primary = "#3E5641"
+
+  # Links  
+  link = "#3E5641"
+  link_hover = "#004D61"
+  link_decoration = "underline"
 
   # Menu
-  menu_primary = "rgb(255, 255, 255)"
-  menu_text = "#355E3B"
-  menu_text_active = "#2b2b2b"
-  menu_title = "#2b2b2b"
+  menu_primary = "#F0F0F0"
+  menu_text = "#1A1A1A"
+  menu_text_active = "#004D61"
+  menu_title = "#1A1A1A"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
-
-[dark]
-  # Primary
-  primary = "#00A36C"
-
-  link = "#00A36C"
-  link_hover = "#00A36C"
+  home_section_odd = "rgb(230, 235, 230)"
+  home_section_even = "rgb(204, 215, 206)"
